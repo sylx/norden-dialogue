@@ -1,3 +1,6 @@
+> [!NOTE]
+> このリポジトリは 2026-11-14 に [nordencult](https://github.com/sylx/nordencult) の [`norden-dialogue/`](https://github.com/sylx/nordencult/tree/main/norden-dialogue) に移りました（履歴もそのまま取り込んであります）。ここは更新しません。
+
 # norden-dialogue
 
 nordencult の会話システム。騎士の立ち絵・顔付きのセリフ・背景・BGM・効果音で、簡易なノベルゲームのような場面を見せる。
